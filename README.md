@@ -1,12 +1,10 @@
 ## 🧮 Python Implementation
 
-To complement the manual Excel-based neural network, we recreated the same feedforward neural network using **Python and NumPy**. This version includes:
+To complement the manual Excel-based neural network, I recreated the same feedforward neural network using **Python and NumPy**. This version includes:
 
 - A single hidden layer with sigmoid activation
 - Manual forward pass and backpropagation logic
 - Weight updates using gradient descent
-- Dummy input data for simulation (can be replaced with real data)
-
 This script demonstrates how the same neural network structure and learning logic can be implemented programmatically.
 
 🔗 [View Python Code](neural_net_manual.py)
