@@ -1,5 +1,5 @@
 [- [[`docs/final_report.pdf`](docs/final_report.pdf)](https://github.com/ysyyashuzz/manual-neural-network-implementation/blob/main/MIS%20%20637-C_%20DATA%20ANALYTICS%20AND%20MACHINE%20LEARNING.pdf)](https://github.com/ysyyashuzz/manual-neural-network-implementation/tree/main) – Project documentation  
-- [`calculations/neural_network_calculations.xlsx`](calculations/neural_network_calculations.xlsx) – Excel workbook with all manual calculations  
+[Calculations](https://github.com/ysyyashuzz/manual-neural-network-implementation/blob/main/Neural_Networks_calculations.xlsx) – Excel workbook with all manual calculations  
 - [`neural_net_manual.py`](neural_net_manual.py) – Python implementation using NumPy
 
 ## 🧮 Python Implementation
